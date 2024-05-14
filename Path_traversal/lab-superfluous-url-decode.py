@@ -35,5 +35,5 @@ try:
         print(response.status_code)
         print(response.content)
 except:
-    print("[!] Error\nUsage: python3 lab-simple.py <lab_url>")
+    print("[!] Error\nUsage: python3 poc.py <lab_url>")
 
